@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda / local DB
+anaconda_projects/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Saved models
+models/*.pkl
