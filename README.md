@@ -12,7 +12,6 @@ build a predictive model to estimate math scores.
 The dataset contains student information such as:
 - Gender
 - Parental level of education
-- Lunch type
 - Test preparation course
 
 Target variable:
